@@ -2,7 +2,6 @@
 title: "Coerced to make Xerces think"
 date: 2018-08-03T23:45:26+01:00
 category: ["security"]
-draft: true
 ---
 
 ![](/images/coerced_to_make_xerces_think_title.png)

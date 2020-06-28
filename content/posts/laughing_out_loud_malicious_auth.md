@@ -1,7 +1,7 @@
 ---
 title: "Laughing out loud - Malicious Reauthentication"
 date: 2018-06-04T10:02:51+01:00
-draft: true
+category: ["security"]
 ---
 
 ![Laughing out loud](/images/laughing_out_loud_malicious_auth_title.png)

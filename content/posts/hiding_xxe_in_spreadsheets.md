@@ -1,7 +1,7 @@
 ---
 title: "Hiding XXE in Spreadsheets"
 date: 2018-06-08T12:24:08+01:00
-draft: true
+category: ["security"]
 ---
 
 ![](/images/hiding_xxe_in_spreadsheets_title.jpg)
