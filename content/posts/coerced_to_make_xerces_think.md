@@ -18,7 +18,7 @@ I recently carried out a review of the dependency scanning results 
 > an XML service, which triggers hash table collisions.
 
 Now, I had come across this previously but wasn't able to find much information about how to create this crafted 
-message until talking with talking with members of the [Equal Experts security practice](https://www.equalexperts.com/services/security/) 
+message until talking with members of the [Equal Experts security practice](https://www.equalexperts.com/services/security/) 
 led me to find the following two articles:
 
 *   [https://events.ccc.de/congress/2011/Fahrplan/attachments/2007_28C3_Effective_DoS_on_web_application_platforms.pdf](https://events.ccc.de/congress/2011/Fahrplan/attachments/2007_28C3_Effective_DoS_on_web_application_platforms.pdf)
@@ -66,7 +66,8 @@ for quite a while, which makes such things the ideal candidate for Denial of Ser
 # The attack
 
 Once I was armed with the knowledge about what hash collisions were and how they could be exploited, I set about creating 
-a malicious XML file. I used the information from the stackoverflow article to create a little piece of code to create my malicious file
+a malicious XML file. I used the information from the stackoverflow article to create a little piece of code to create 
+my malicious file
 
 ```java
 public static void main(String... args) throws IOException {
@@ -120,7 +121,7 @@ Each of the element names have got the same hashcode!
 
 I found that anything that processed XML payloads (and was using Xerces 2.11.0) was vulnerable. By uploading as little 
 as 5 files with a size of 2MB each simultaneously, I was able to cause a CPU load of 100% for up-to about a minute. 
-Sustain this enough and it might cause a rather inconvenient Denial of Service probably without being caught by the 
+Sustain this enough, and it might cause a rather inconvenient Denial of Service probably without being caught by the 
 traditional DDoS protections...
 
 Now, finding applications that allow file uploads isn't that frequent, so how bad could it be?
@@ -146,7 +147,6 @@ Further digging led me to [https://github.com/playframework/playframework/blob/
 
 ```scala
 def anyContent(maxLength: Option[Long]): BodyParser[AnyContent] = BodyParser("anyContent") { request =>
-  import play.api.libs.iteratee.Execution.Implicits.trampoline
 
   def maxLengthOrDefault = maxLength.fold(DefaultMaxTextLength)(_.toInt)
   def maxLengthOrDefaultLarge = maxLength.getOrElse(DefaultMaxDiskLength)
@@ -164,18 +164,7 @@ def anyContent(maxLength: Option[Long]): BodyParser[AnyContent] = BodyParser("an
       logger.trace("Parsing AnyContent as json")
       json(maxLengthOrDefault)(request).map(_.right.map(j => AnyContentAsJson(j)))
 
-    case Some("application/x-www-form-urlencoded") =>
-      logger.trace("Parsing AnyContent as urlFormEncoded")
-      urlFormEncoded(maxLengthOrDefault)(request).map(_.right.map(d => AnyContentAsFormUrlEncoded(d)))
-
-    case Some("multipart/form-data") =>
-      logger.trace("Parsing AnyContent as multipartFormData")
-      multipartFormData(Multipart.handleFilePartAsTemporaryFile, maxLengthOrDefaultLarge).apply(request)
-        .map(_.right.map(m => AnyContentAsMultipartFormData(m)))
-
-    case _ =>
-      logger.trace("Parsing AnyContent as raw")
-      raw(DefaultMaxTextLength, maxLengthOrDefaultLarge)(request).map(_.right.map(r => AnyContentAsRaw(r)))
+[...]
   }
 }
 ```
@@ -192,7 +181,6 @@ In my case I found a service that was configured to allow bigger POST payloads t
 ```text
 play.http.parser.maxMemoryBuffer=1536K
 ```
-
 
 So I just fired off a small attack (having asked permission first, of course!)
 
@@ -217,7 +205,7 @@ Compare:
 *   [https://svn.apache.org/repos/asf/xerces/java/tags/Xerces-J_2_11_0/src/org/apache/xerces/util/SymbolTable.java](https://svn.apache.org/repos/asf/xerces/java/tags/Xerces-J_2_11_0/src/org/apache/xerces/util/SymbolTable.java)
 *   [https://svn.apache.org/repos/asf/xerces/java/tags/Xerces-J_2_12_0/src/org/apache/xerces/util/SymbolTable.java](https://svn.apache.org/repos/asf/xerces/java/tags/Xerces-J_2_12_0/src/org/apache/xerces/util/SymbolTable.java)
 
-So, the fix is to ensure that you've got the following dependency
+So, the fix is to ensure using the following dependency (note also, Play >=2.6 has updated the dependency)
 
 ```sbt
 "xerces" % "xercesImpl" % "2.12.0" withSources()
