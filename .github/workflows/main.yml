@@ -37,3 +37,6 @@ jobs:
       run: |
         cd public
         git status
+        git add .
+        git commit -m "Automatic deploy"
+        git push
