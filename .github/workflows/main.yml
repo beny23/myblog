@@ -32,3 +32,8 @@ jobs:
       run: hugo --minify
       env:
         HUGO_ENV: production
+        
+    - name: deploy
+      run: |
+        cd public
+        git status
