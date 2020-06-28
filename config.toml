@@ -1,0 +1,42 @@
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = "Tales about Software Engineering"
+theme = "ananke"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Writings about software: development and security"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = "https://www.linkedin.com/in/gerald-benischke-9811b663"
+  mastodon = ""
+  slack = ""
+  stackoverflow = "https://stackoverflow.com/users/227140/beny23"
+  rss = ""
+  show_reading_time = true
+
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url  = "/about/"
+[[menu.main]]
+    name = "Blog"
+    weight = 2
+    url  = "/posts/"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "dracula"
+    tabWidth = 2
