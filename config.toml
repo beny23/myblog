@@ -1,7 +1,9 @@
 baseURL = "https://beny23.github.io/"
 languageCode = "en-gb"
 title = "Tales about Software Engineering"
+copyright = "Software Design Systems"
 theme = "ananke"
+googleAnalytics = "UA-171035600-1"
 
 [params]
   favicon = ""
@@ -19,6 +21,7 @@ theme = "ananke"
   stackoverflow = "https://stackoverflow.com/users/227140/beny23"
   rss = ""
   show_reading_time = true
+  featured_image = "/images/background.png"
 
 [[menu.main]]
     name = "About"
