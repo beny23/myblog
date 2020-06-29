@@ -109,8 +109,11 @@ seconds with curl measuring the output:
 100 74.8M    0 74.8M    0     0  5412k      0 --:--:--  0:00:14 --:--:-- 5634k
 ```
 
-Not bad! But we could do better ## Optimisation: Bigger Fetch Size I was able to optimise the query further 
-(500,000 records in 8 seconds) by tweaking the JDBC connection settings
+Not bad! But we could do better 
+
+# Optimisation: Bigger Fetch Size 
+
+I was able to optimise the query further (500,000 records in 8 seconds) by tweaking the JDBC connection settings
 
 ```hocon
 hikaricp {
