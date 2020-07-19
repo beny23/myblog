@@ -97,9 +97,9 @@ I’m watching a channel where the Covid-19 services are being discussed and a c
 sign-in journey for tax agents inasmuch as the predictions are that the call-out to a backend system that still 
 sat in the on-premise data centre could be too slow.  I did a little thinking and posited that instead of calling 
 the data-centre we could just look up the same information in the databases we migrated as part of the data tier 
-migration mentioned earily.  The trouble was that there was no microservice, and the changing the calling service to 
+migration mentioned earlier.  The trouble was that there was no microservice, and the changing the calling service to 
 accommodate Oracle database connections was non-trivial.  And this was only about 4 days before everything was going live.
-So I would write one.  This happened on the back of a Slack conversation.  One amazing feature of the breakneck 
+So I would write a new service.  This happened on the back of a Slack conversation.  One amazing feature of the breakneck 
 speed of the Covid-19 response was that regardless of supplier - or where the funding would eventually 
 come from - people worked together seemingly crossing supplier and team boundaries with ease.
 
