@@ -3,8 +3,8 @@ title: "Making Software. Quickly."
 date: 2020-07-19T08:54:48+01:00
 ---
 
-In this post, I describe my personal experience of being part of a software development team working with HMRC 
-during Covid-19.  Under normal circumstances, we're responsible for tax services such as 
+In this post, I describe my personal experience of being part of a software development team working with Equal Experts and
+HMRC during Covid-19.  Under normal circumstances, we're responsible for tax services such as 
 Self Assessment, PAYE Expenses and Benefits, VAT submissions amongst others. These services run on the Multi-channel 
 Digital Tax Platform (MDTP).  This platform is hosted in a hyperscale cloud (the cloud provider has a sideline selling books), 
 run in-house by HMRC teams made up of permanent staff and consultants.  
