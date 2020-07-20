@@ -9,7 +9,7 @@ Self Assessment, PAYE Expenses and Benefits, VAT submissions amongst others. The
 Digital Tax Platform (MDTP).  This platform is hosted in a hyperscale cloud (the cloud provider has a sideline selling books), 
 run in-house by HMRC teams made up of permanent staff and consultants.  
 
-I believe this set-up was instrumental in being able to react quickly to massively changing requirements. 
+When the UK locked down during Covid-19, this platform enabled HMRC to turn around big projects very quickly. 
 The Coronavirus Job Retention Scheme (JRS) went from inception to production in 4 short weeks and the Statutory Sick Pay 
 Rebate Scheme (SSPRS) and the Self Employed Income Support Scheme (SEISS) came not long after.   
 
@@ -17,13 +17,15 @@ The numbers were staggering, this was the dashboard after a single day of JRS
 
 ![JRS First Day Stats](/images/making_software_quickly_stats_1.png)
 
-And SEISS was even bigger on its first day... Equally impressive were the customer satisfaction stats
+And SEISS was even bigger on its first day... 
+
+Equally impressive were the customer satisfaction stats
 
 ![SEISS Satisfaction Levels](/images/making_software_quickly_stats_2.png)
 
 From my point of view, the effort that went into delivering these systems was nothing short of miraculous. 
-There were dire predictions about “surely, the website will crash” - when that didn’t happen, the social media 
-doom-mongers were predicting that “there will be problems with payments”.  
+There were dire predictions about "surely, the website will crash" - when that didn't happen, the social media 
+doom-mongers were predicting that "there will be problems with payments".  
 
 ![Private Eye Scepticism](/images/making_software_quickly_eye.jpg)
 
@@ -38,11 +40,11 @@ Impressive stuff.  But how, do I hear you ask?  But before I answer that, a bit 
 
 # Background 
 
-I’ve been part of the Manchester team for about 3 years.  The project started with the “rehoming” of legacy services 
-where we moved Weblogic J2EE web applications from a data centre into the HMRC Digital cloud platform MDTP.
+I've been part of the Manchester team for about 3 years.  The project started with the "rehoming" of legacy services 
+where we moved Weblogic J2EE web applications from a data centre into MDTP.
 
 As such, my experience with HMRC code started by trying to understand millions of lines of code of monolithic applications.  
-Note, we didn’t rewrite or refactor - we wanted to move it into the cloud and just make it work.  The improvements came 
+Note, we didn't rewrite or refactor - we wanted to move it into the cloud and just make it work.  The improvements came 
 later.  While it is not as exciting as greenfield development, and involved the occasional head-against-brick-walling - 
 it was quite satisfying to move applications out of the data centre.
 
@@ -51,9 +53,9 @@ centre and into the cloud. This will become important later in the story.
 
 When I started, I think it is fair to say that these legacy services were considered a bit of an aberration. We 
 were using 13-year old Java code with Oracle, the rest of the MDTP platform were on Scala services with Mongo data 
-stores.  This meant that our services needed a lot of special treatment as our stuff didn’t work in the same manner 
-as all the other service.  And that created friction.  Especially as MDTP is an “opinionated platform”.  This means 
-that there are certain ways of doing things and the platform teams are very careful to "guide" the service teams 
+stores.  This meant that our services needed a lot of special treatment as our stuff didn't work in the same manner 
+as all the other service.  And that created friction.  Especially as MDTP is an "opinionated platform".  This means 
+that there are certain ways of doing things, and the platform teams are very careful to "guide" the service teams 
 to ensure that everyone follows the same patterns, concentrating more on solving business problems, and not technology 
 problems.  In practice, this meant requests for different types of infrastructure were very often met with a stern "No". 
 At the time this was frustrating, but I quickly came to understand that this is with very good reason.  I do not 
@@ -64,7 +66,7 @@ peak days by letting every team do whatever they like.
 
 Even though "the art of the possible" is a phrase I've come to loathe (as it increasingly gets overused), at those heady 
 days of running at 110%, working weekends and all hours, it seemed very apt. Note, I worked those hours not because I was 
-asked to, but because I wanted to help.  I know I'm not the only one who put in lots of hours to support getting these 
+asked, but because I wanted to help.  I know I'm not the only one who put in lots of hours to support getting these 
 HMRC-opens-the-money-taps schemes out of the door.
 
 The most important aspects of delivering a system at breakneck speed is the ability for engineers to be 
@@ -72,30 +74,31 @@ able to just get on with it.  I'll list what I've come to regard as the most imp
 
 # Ease of Communication
 
-In my opinion, first and foremost for a developer are good communication tools and practices.  At HMRC Digital, we’re 
-heavily relying on Slack.  It is very easy to have instant conversations but also keep track of what happens elsewhere.
+In my opinion, first and foremost are good communication tools and practices.  At HMRC Digital 
+heavily relies on Slack.  It is very easy to have instant conversations but also keep track of what happens elsewhere.
 
 A Slack channel could be created ad-hoc for a specific issue.  Engineers, analysts and designers from multiple teams 
-and specialisations are easily brought together to communicate and collaborate on solving problems.
+and specialisations can focus collaborating and solving problems without endless meetings or endless email chains.
 
-We also have public team channels.  If there are any questions for a specific team, asking on their team channel is the 
+If there are any questions for a specific team, asking on their public team channel is the 
 first option and usually gets a quick response. Private Slack channels are internal to teams - so the day to day internal 
-discussions do not get aired in the public, allowing for a frank exchange of information.  There are also community 
-channels.  If I have a question about Scala, I can go to a community Scala channel - if I’m 
-stuck on a performance testing issue, there’s always help available in the testing community channel.
+discussions do not get aired in the public.  There are also community 
+channels.  If I have a question about Scala, I can go to a community Scala channel - if I'm 
+stuck on a performance testing issue, there's always help available in the testing community channel.
 
-There are thousands of channels - a consistent naming convention and good channel descriptions are essential.
+There are thousands of channels - a consistent naming convention and good channel descriptions are essential, otherwise
+it becomes unmanageable. 
 
 ![Slack channel list](/images/making_software_quickly_slack.png)
 
 If I were to imagine trying to organise as many subjects and conversations via email, the HMRC Covid response would have 
 been an abysmal failure.
 
-Back to my story!
+Back to the story!
 
-I’m watching a channel where the Covid-19 services are being discussed and a concern pops up about a part of the 
-sign-in journey for tax agents inasmuch as the predictions are that the call-out to a backend system that still 
-sat in the on-premise data centre could be too slow.  I did a little thinking and posited that instead of calling 
+I was following a Slack channel where the Covid-19 services were discussed and a concern popped up about a part of the 
+sign-in journey for tax agents. The predictions are that a call-out to a backend system that still 
+sat in the on-premise data centre could be too slow.  I did a little thinking and suggested that instead of calling 
 the data-centre we could just look up the same information in the databases we migrated as part of the data tier 
 migration mentioned earlier.  The trouble was that there was no microservice, and the changing the calling service to 
 accommodate Oracle database connections was non-trivial.  And this was only about 4 days before everything was going live.
@@ -136,7 +139,7 @@ This is where I can stand on the shoulders of the MDTP Platform Teams:
 
 * The Build and Deploy team have provided the infrastructure and DSL to allow me to define my build pipeline in a 
 matter of minutes.  
-* The Telemetry team allow me to view logs and metrics.  I don't need to know that in the background there’s a complex
+* The Telemetry team allow me to view logs and metrics.  I don't need to know that in the background there's a complex
 telemetry infrastructure that ingests logs via Redis and Logstash and then makes it available to ElasticSearch/Kibana.  
 All I have to know is that I get a dashboard that gives me all the requests and errors (and downstream calls...)
 * The Infrastructure team look after all the infrastructure (load balancers, proxies, security groups, databases)
