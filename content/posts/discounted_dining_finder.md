@@ -343,4 +343,6 @@ which can be combined to provide a build pipeline and a hosting solution!
 
 # Cheese
 
-Thanks for reading, I hope you found the [Discounted Dining Finder](/static-distance/) and the above information useful.
+Thanks for reading, I hope you found the [Discounted Dining Finder](/static-distance/) and the above tale interesting.
+The source code is available on [github.com/beny23/static-distance/](https://github.com/beny23/static-distance/) and
+released using the Apache-2.0 open source licence.
