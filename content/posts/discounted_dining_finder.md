@@ -6,7 +6,7 @@ category: ["frontend"]
 
 ![Discounted Dining Finder](/images/discounted_dining_finder_title.png)
 
-This post describes how I developed the [Discount Dining Finder](/static-instance/) a lookup map tool for the Eat Out to Help Out scheme in my spare time.  I currently
+This post describes how I developed the [Discount Dining Finder](/static-distance/) a lookup map tool for the Eat Out to Help Out scheme in my spare time.  I currently
 work with [Equal Experts](https://www.equalexperts.com/) and HMRC. The aim of this writing is to provide an insight
 into how problems of scaling services can be solved by having no servers and not using "serverless services" either.
 
@@ -343,4 +343,4 @@ which can be combined to provide a build pipeline and a hosting solution!
 
 # Cheese
 
-Thanks for reading, I hope you found the [Discounted Dining Finder](/static-instance/) and the above information useful.
+Thanks for reading, I hope you found the [Discounted Dining Finder](/static-distance/) and the above information useful.
