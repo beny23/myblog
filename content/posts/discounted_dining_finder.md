@@ -145,7 +145,7 @@ markerLayer = L.layerGroup().addTo(mapid)
 
 And I had a map!
 
-![A Map](/images/discounted_dining_finder_map.png
+![A Map](/images/discounted_dining_finder_map.png)
 
 # Fish
 
