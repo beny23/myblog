@@ -6,7 +6,7 @@ category: ["frontend"]
 
 ![Discounted Dining Finder](/images/discounted_dining_finder_title.png)
 
-This post describes how I developed the [Discount Dining Finder](/static-distance/) a lookup map tool for the Eat Out to Help Out scheme in my spare time.  I currently
+This post describes how I developed the [Discount Dining Finder](https://eat-out-to-help-out.co/) a lookup map tool for the Eat Out to Help Out scheme in my spare time.  I currently
 work with [Equal Experts](https://www.equalexperts.com/) and HMRC. The aim of this writing is to provide an insight
 into how problems of scaling services can be solved by having no servers and not using "serverless services" either.
 
@@ -26,7 +26,7 @@ The scheme would consist of different journeys:
 
 Out of these three, the biggest unknown of in terms of expected volume was the "search journey" to be used by the 
 general public. In this journey, a user would enter a postcode, and registered establishments inside an X mile radius
-that had registered would be returned. There was a big number of unknowns in terms of how much traffic was to be expected on 
+would be displayed. There was a big number of unknowns in terms of how much traffic was to be expected on 
 [the HMRC service](https://www.tax.service.gov.uk/eat-out-to-help-out/find-a-restaurant).
 
 - Would there be a peak at lunchtime?
@@ -130,7 +130,7 @@ to search than 1.7 million!
 
 # Soup
 
-I didn't mention the [Discounted Dining Finder](/static-distance/) had a map.  A quick diversion on setting that up!
+I didn't mention the [Discounted Dining Finder](https://eat-out-to-help-out.co/) had a map.  A quick diversion on setting that up!
 
 I used [LeafletJS](https://leafletjs.com) - an open source map. Here's how:
 
@@ -343,6 +343,6 @@ which can be combined to provide a build pipeline and a hosting solution!
 
 # Cheese
 
-Thanks for reading, I hope you found the [Discounted Dining Finder](/static-distance/) and the above tale interesting.
+Thanks for reading, I hope you found the [Discounted Dining Finder](https://eat-out-to-help-out.co/) and the above tale interesting.
 The source code is available on [github.com/beny23/static-distance/](https://github.com/beny23/static-distance/) and
 released using the Apache-2.0 open source licence.
