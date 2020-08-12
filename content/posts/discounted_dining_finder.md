@@ -30,7 +30,7 @@ would be displayed. There was a big number of unknowns in terms of how much traf
 [the HMRC service](https://www.tax.service.gov.uk/eat-out-to-help-out/find-a-restaurant).
 
 - Would there be a peak at lunchtime?
-- What if Martin Lewis goes on TV, recommends visiting the site and two minutes later 10% of the counter want to find
+- What if Martin Lewis goes on TV, recommends visiting the site and two minutes later 10% of the country want to find
 information about their local eateries?
 - Could it impact other HMRC services (the "tax platform" hosts a multitude of services)
 
