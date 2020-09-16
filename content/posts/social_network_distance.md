@@ -1,6 +1,6 @@
 ---
 title: "Social network distance"
-date: 2020-09-15T09:41:25+01:00
+date: 2020-09-16T02:12:25+01:00
 category: ["marketing"]
 ---
 
