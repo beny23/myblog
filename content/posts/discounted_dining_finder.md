@@ -73,7 +73,7 @@ smaller files:
 ```
 
 Each file is split into directories by their first letters.  So if I want to find out about postcode `AB12 4TS`, I'd 
-split up the the outcode (`AB12`) into `/A/B/AB12.csv`. That file would only have 799 entries, searching them manually
+split up the outcode (`AB12`) into `/A/B/AB12.csv`. That file would only have 799 entries, searching them manually
 is much more palatable.
 
 So I've got my main page and the user would enter their postcode
