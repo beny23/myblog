@@ -106,3 +106,5 @@ In my opinion this is where development and testing teams need to have the exper
 potential issues.  The above is just one example of how a seemingly innocuous piece of code can be abused.
 
 How would your code fare against the [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)?
+
+[Discuss on Hackernews](https://news.ycombinator.com/item?id=26297016)

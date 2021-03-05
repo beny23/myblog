@@ -163,3 +163,5 @@ that it doesn't allow me to use arbitrary ranges. My solution above would not pr
 for a range that doesn't start with 1.
 
 This was a fun exercise and hope will give you some food for thought.
+
+[Discuss on Hackernews](https://news.ycombinator.com/item?id=26353967)
