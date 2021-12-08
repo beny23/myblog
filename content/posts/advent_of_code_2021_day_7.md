@@ -85,5 +85,5 @@ Rest of the solution on [GitHub](https://github.com/beny23/advent-of-code/tree/m
 
 # Conclusion
 
-This puzzle almost felt like a little bit of a let down as it didn't feel as complex.  Either that or
+This puzzle almost felt like a little bit of a letdown as it didn't feel as complex.  Either that or
 my mathematics is letting me down to come up with a better approach.
