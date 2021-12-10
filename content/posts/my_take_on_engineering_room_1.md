@@ -6,7 +6,7 @@ category: ["my-take-on"]
 
 [Dave Farley](https://twitter.com/davefarley77) and [Martin Fowler](https://twitter.com/martinfowler) are two heavyweights
 when it comes to Software Development.  As well as his latest and hugely anticipated book 
-[Modering Software Engineering](https://www.amazon.co.uk/Modern-Software-Engineering-Really-Better/dp/0137314914),
+[Modern Software Engineering](https://www.amazon.co.uk/Modern-Software-Engineering-Really-Better/dp/0137314914),
 Dave wrote [Continuous Delivery](https://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912).
 Martin co-wrote the [Agile Manifesto](https://agilemanifesto.org) and [Refactoring](https://www.amazon.co.uk/Refactoring-Improving-Existing-Addison-Wesley-Technology/dp/0134757599).
 All of which are hugely influential to large swathes of software engineers.  So when both came together for Dave's new series on YouTube, the 
