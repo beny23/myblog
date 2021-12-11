@@ -10,7 +10,7 @@ category: ["functional","haskell","advent-of-code"]
 of [Day 9]({{< ref "advent_of_code_2021_day_9.md" >}}).  In both cases, we got a 2-dimensional
 map with single digit values.  In case of day 9 it was a height map, this time round we've got
 a 10x10 grid of bioluminescent Octopi.  Each of those critters has an energy level that increases
-each round.  Once that level goes past 9, it lets of a flash, which then imparts extra energy 
+each round.  Once that level goes past 9, it lets off a flash, which then imparts extra energy 
 into the surrounding 8-legged creatures.  In a departure from Day 9, this time the diagonals
 were classed as adjacent.
 
