@@ -294,5 +294,5 @@ Rest of the solution on [GitHub](https://github.com/beny23/advent-of-code/tree/m
 # Conclusion
 
 I loved this puzzle, as it meant having to reach further into the algorithm toolbox and pure intuition was not
-good enough.  I found it really interesting optimising the second part to ensure that I my algorithm implementation
+good enough.  I found it really interesting optimising the second part to ensure that my algorithm implementation
 was as good as the algorithm itself...
