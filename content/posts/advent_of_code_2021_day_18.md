@@ -270,10 +270,10 @@ For part two, we needed to find the highest magnitude when adding each pair of n
 To get all the permutations of numbers I use a list comprehension:
 
 ```haskell
-pairs = [(x1, x2) | x1 <- numbers, x2 <- numbers, x1 < x2]
+pairs = [(x1, x2) | x1 <- numbers, x2 <- numbers, x1 /= x2]
 ```
 
-That worked by combining all the numbers and only picking out the ones where the first number is smaller than the
+That worked by combining all the numbers and only picking out the ones where the first number is not equal to the
 second.  Note, this is working on my element list - as Haskell lists are automatically comparable. Neat!
 
 Rest of the solution on [GitHub](https://github.com/beny23/advent-of-code/tree/main/2021/haskell/day18) 
