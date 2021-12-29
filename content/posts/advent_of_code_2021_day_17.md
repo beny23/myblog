@@ -19,7 +19,7 @@ Rather than GHCUP, I was using [stack](https://docs.haskellstack.org/), but all 
 and then I was ready for testing (more on details later).  I also recommend using
 
 ```shell
-$ fswatch -or *.hs | xargs -n1 stack runhaskell *Spec.hs
+$ fswatch -or *.hs | xargs -n1 -I{} stack runhaskell *Spec.hs
 ```
 
 To keep the tests running in the background.  As Haskell is rather fast (compared to something like sbt), it made
