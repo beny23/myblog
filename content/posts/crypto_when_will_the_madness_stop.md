@@ -13,7 +13,7 @@ that "crypto" does not follow these.
 
 # Bitcoin
 
-Over the last 12 years, it is hard to have lived and not get notice an article about the poster child of
+Over the last 12 years, it is hard to have lived and not notice the poster child of
 blockchains: Bitcoin.  First emerging in 2009, it promised a revolutionary way to think about currency.  Instead
 of trusting a central bank, you could just record all transactions in a distributed ledger.  Everything would be
 public, open transparent to all.  Surely it was only a matter of time before governments would have to recognise that
