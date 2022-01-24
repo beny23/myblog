@@ -1,10 +1,9 @@
 ---
 title: "Coerced to make Xerces think"
 date: 2018-08-03T23:45:26+01:00
-category: ["security"]
+tags: ["security", "xml-is-evil"]
+featured_image: "/images/coerced_to_make_xerces_think_title.png"
 ---
-
-![](/images/coerced_to_make_xerces_think_title.png)
 
 [More]({{< ref "laughing_out_loud_malicious_auth.md" >}}) and [more]({{< ref "hiding_xxe_in_spreadsheets.md" >}})
 I'm thinking that XML is evil! This is the third part of my series on why, as a software engineer, it is very useful 

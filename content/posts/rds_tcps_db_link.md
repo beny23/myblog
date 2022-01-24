@@ -1,10 +1,9 @@
 ---
 title: "Fixing Oracle DB Link Certificate Errors in RDS"
 date: 2020-11-18T01:19:35Z
-category: ["oracle"]
+tags: ["oracle"]
+featured_image: "/images/rds_tcps_db_link_title.jpg"
 ---
-
-![](/images/rds_tcps_db_link_title.jpg)
 
 After upgrading my AWS RDS instance from Oracle 11g
 Oracle 19c, my DB Link stopped working with a certificate error.  Uh-oh.

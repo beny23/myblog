@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 17"
 date: 2021-12-20T17:14:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 On day 17 of [Advent of Code 2021](https://adventofcode.com/2021), I did something that I should have really done
 from the start:  Write tests first.  My excuse so far has been that I wasn't familiar with Haskell yet and other

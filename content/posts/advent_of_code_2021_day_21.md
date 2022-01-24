@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 21"
 date: 2022-01-08T23:44:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 On Day 21 of [Advent of Code 2021](https://adventofcode.com/2021) we played Dirac Dice!  And part one felt way too
 easy to solve, but I needed have worried because part two we were asked to solve a limited multiverse problem.

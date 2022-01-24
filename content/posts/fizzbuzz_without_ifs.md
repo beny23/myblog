@@ -1,10 +1,9 @@
 ---
 title: "Fizzbuzz without if clauses"
 date: 2021-03-04T08:44:19Z
-category: ["functional", "haskell"]
+tags: ["functional", "haskell"]
+featured_image: "/images/fizzbuzz_without_ifs_title.png"
 ---
-
-![](/images/fizzbuzz_without_ifs_title.png)
 
 In this writing I aim to complete a Fizzbuzz without if statements, conditionals, pattern matching
 or even using modulus calculations.  And if that isn't enough I thought I'd use the opportunity

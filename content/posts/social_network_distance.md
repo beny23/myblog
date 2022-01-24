@@ -1,10 +1,9 @@
 ---
 title: "Social network distance"
 date: 2020-09-16T02:12:25+01:00
-category: ["marketing"]
+tags: ["marketing"]
+featured_image: "/images/social_network_distance_title.jpg"
 ---
-
-![Social Network Distance](/images/social_network_distance_title.jpg)
 
 It's now about two weeks since the HMRCs splurge on getting the UK to go out for a 
 meal has finished.  In [discount dining finder]({{< ref "/posts/discounted_dining_finder.md" >}})

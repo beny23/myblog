@@ -1,16 +1,15 @@
 ---
 title: "Laughing out loud - Malicious Reauthentication"
 date: 2018-06-04T10:02:51+01:00
-category: ["security"]
+tags: ["security", "xml-is-evil"]
+featured_image: "/images/laughing_out_loud_malicious_auth_title.png"
 ---
-
-![Laughing out loud](/images/laughing_out_loud_malicious_auth_title.png)
 
 # Background
 
-I had found a vulnerability that made it is possible to insert maliciously crafted XML into the SAML payload that a reauthentication application returned to perform a Denial of Service (DoS) attack. The vulnerability came about due to the use of a out-of-date but still widely used library.
+I had found a vulnerability that made it is possible to insert maliciously crafted XML into the SAML payload that a reauthentication application returned to perform a Denial of Service (DoS) attack. The vulnerability came about due to the use of a out-of-date but still widely used library.
 
-The service could have been made to consume a lot of CPU and memory causing it respond very slowly if at all. Health checks and automatic service restarts would have healed the service but it still would have allowed an attacker to mount a sustained Denial of Service attack without needing a lot of requests.
+The service could have been made to consume a lot of CPU and memory causing it respond very slowly if at all. Health checks and automatic service restarts would have healed the service but it still would have allowed an attacker to mount a sustained Denial of Service attack without needing a lot of requests.
 
 This post describes the vulnerability found in the opensaml-1.1 which was used to reauthenticate request. In this instance the reauthentication between apps worked by sending a payload to the reauthentication app, which then revalidated username/password and then returned the payload as a SAML assertion. This would be sent to the browser and POSTed back to the originating app.
 
@@ -83,7 +82,7 @@ This led me to perform experiments trying to exploit XXE - considering the XML i
 
 # The Attack
 
-I used [Charles proxy](https://www.charlesproxy.com) to set a breakpoint on the URL POSTing (I was testing this locally) and I modified the payload before it was POSTed back to the app that initiated the reauthentication
+I used [Charles proxy](https://www.charlesproxy.com) to set a breakpoint on the URL POSTing (I was testing this locally) and I modified the payload before it was POSTed back to the app that initiated the reauthentication
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
@@ -122,7 +121,7 @@ Here is what it did to my local JVM:
 
 ![](/images/laughing_out_loud_malicious_auth_stats.png)
 
- and that is just a single request.
+ and that is just a single request.
 
 # Mitigation
 

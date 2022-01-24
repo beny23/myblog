@@ -1,10 +1,9 @@
 ---
 title: "Record and publish your meeting"
 date: 2021-08-22T21:43:47+01:00
-category: ["meetings", "recording"]
+tags: ["meetings", "recording", "agile"]
+featured_image: "/images/screen_record_meetings_title.png"
 ---
-
-![](/images/screen_record_meetings_title.png)
 
 Scenario: You're in a handover session and explain everything in great detail but Dave is too hungover,
 Jim is on holiday and Jane is at another meeting and Chris isn't asking any questions and in any case

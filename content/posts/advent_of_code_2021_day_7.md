@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 7"
 date: 2021-12-07T09:00:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 On the 7th day of the submarine [Advent of Code 2021](https://adventofcode.com/2021) adventure, I 
 felt like the problem was getting a bit easier than it had been of late.  If anything I felt a touch

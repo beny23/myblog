@@ -1,7 +1,7 @@
 ---
 title: "Exponential exploit: Why AppSec is hard"
 date: 2021-02-28T01:50:10Z
-category: ["security"]
+tags: ["security", "java"]
 ---
 
 In this blog post, I would like to explore how missing input validation even in a trivial service

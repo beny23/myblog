@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 22"
 date: 2022-01-13T00:44:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 Day 22 of [Advent of Code 2021](https://adventofcode.com/2021) was all about cubes. The [problem statement](https://adventofcode.com/2021/day/21)
 provided us with coordinates of cubes and an "on" or "off" instructions.  These instructions needed to be

@@ -1,10 +1,9 @@
 ---
 title: "One million records in 15 seconds"
 date: 2020-05-30T10:29:17+01:00
-category: ["performance"]
+tags: ["performance", "scala", "oracle"]
+featured_image: "/images/one_million_records_in_15s_title.jpg"
 ---
-
-![](/images/one_million_records_in_15s_title.jpg)
 
 In this  post, I'd like to talk about optimisations that I recently used to provide a Scala Microservice that 
 surfaced payment events. The events were held in an Oracle backend and the Microservice was in a docker 

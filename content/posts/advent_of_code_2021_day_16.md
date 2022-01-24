@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 16"
 date: 2021-12-20T00:14:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 For day 16 [Advent of Code 2021](https://adventofcode.com/2021), it was all about
 monadic parser combinators (whatever they are)!  Just like [Day 15]({{< ref "advent_of_code_2021_day_15.md" >}}), 

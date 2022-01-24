@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 4"
 date: 2021-12-05T08:48:32+01:00
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 For [Advent of Code 2021](https://adventofcode.com/2021) rather than just thinking
 "Hey, what a good idea - I should give that a go" and then promptly forgetting about it, I thought

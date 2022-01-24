@@ -1,10 +1,9 @@
 ---
 title: "Discounted Dining Finder"
 date: 2020-07-29T23:55:11+01:00
-category: ["frontend"]
+tags: ["frontend", "covid-response"]
+featured_image: "/images/discounted_dining_finder_title.png"
 ---
-
-![Discounted Dining Finder](/images/discounted_dining_finder_title.png)
 
 This post describes how I developed the [Discount Dining Finder](https://beny23.github.io/static-distance) a lookup map tool for the Eat Out to Help Out scheme in my spare time.  I currently
 work with [Equal Experts](https://www.equalexperts.com/) and HMRC. The aim of this writing is to provide an insight

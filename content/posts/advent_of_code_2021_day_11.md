@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 11"
 date: 2021-12-11T15:00:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 [Advent of Code 2021](https://adventofcode.com/2021) day 11 felt a little bit like a repeat 
 of [Day 9]({{< ref "advent_of_code_2021_day_9.md" >}}).  In both cases, we got a 2-dimensional

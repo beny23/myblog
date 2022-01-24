@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 5"
 date: 2021-12-06T12:48:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 Following from my efforts on [Day 4]({{< ref "advent_of_code_2021_day_4.md" >}})
 of [Advent of Code 2021](https://adventofcode.com/2021) I was encouraged to try writing up

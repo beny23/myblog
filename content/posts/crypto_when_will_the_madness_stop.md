@@ -1,15 +1,14 @@
 ---
-title: "Crypto: When will the madness stop?"
+title: "Bitcoin: When will the madness stop?"
 date: 2022-01-23T01:19:35Z
-category: ["crypto", "bitcoin", "when-will-this-madness-stop"]
+tags: ["crypto", "bitcoin", "when-will-this-madness-stop"]
+featured_image: "/images/crypto_when_will_the_madness_stop_title.jpg"
 ---
 
-![](/images/crypto_when_will_the_madness_stop_title.jpg)
-
 In this writing I ask: When will this madness end? When will we wake up from this fascination with 
-cryptocurrencies that is turning technological orthodoxy on it's head: It used to be that 
+cryptocurrencies (chief amongst which Bitcoin) that is turning technological orthodoxy on it's head: It used to be that 
 technological progress was measured on making things cheaper, faster, more secure or more scalable.  But it seems 
-that "crypto" does not follow these.   
+that Bitcoin does not follow these.   
 
 # Bitcoin
 
@@ -25,7 +24,9 @@ have been when Twitter and Facebook took off, smartphones became ubiquitous (iph
 Bitcoins would be created by mining them.  This is to solve ever more complex hashing functions to process transactions and to
 create new coins.  Initially this kind of work could be done on a home computer, but soon it needed specialised hardware
 or the latest GPUs in bitcoin mining farms.  Nowadays I guess stealing power from the grid is no longer sole preserve
-of [running cannabis farms](https://www.bbc.co.uk/news/uk-england-birmingham-57280115).
+of [running cannabis farms](https://www.bbc.co.uk/news/uk-england-birmingham-57280115).  This concept is called 
+Proof-of-Work (PoW) whereby in order to add to the blockchain, work in form of computing the hashing functions has to
+be carried out.
 
 How much energy does it actually take? [The Digiconomist](https://digiconomist.net/bitcoin-energy-consumption/) has
 a calculator - at the time of writing it was using more than all of Thailand (in 22nd most energy used worldwide) whereas 
@@ -53,7 +54,8 @@ But even the HBR piece is interesting for the following assertion:
 > constraints on the number of transactions it can process (fewer than a million per day) combined with users' finite 
 > tolerance for paying fees limit the growth potential of this as a revenue source.
 
-Bitcoin has a natural limit on the number of transactions!  How does that stack up against the existing (and in terms 
+Bitcoin has a natural limit on the number of transactions, fewer than a million per day.  How does that stack up 
+against the existing (and in terms 
 of energy cheaper by orders of magnitude) card networks.  According to [this piece](https://www.cardrates.com/advice/number-of-credit-card-transactions-per-day-year/)
 on cardrates.com there are about 1 billion transactions a day.  Hey, progress there - Bitcoin is only worse by a factor
 of a thousand.
@@ -88,7 +90,7 @@ of getting paid?
 
 # But why are you worried about the energy usage, it's all green energy!
 
-I've seen arguments made that we shouldn't worry about the energy impact, because crypto can utilise energy that would
+I've seen arguments made that we shouldn't worry about the energy impact, because Bitcoin can utilise energy that would
 otherwise get wasted, and it's all clean green energy anyway!  [Nope](https://www.theguardian.com/world/2022/jan/06/kazakhstan-bitcoin-internet-shutdown)
 it's definitely not all green, and when blackouts in the mainly coal-driven energy system of Kazakhstan reveal that 18%
 of Bitcoin is mined there, it should set alarm bells off.
@@ -114,17 +116,20 @@ I know that there are a lot of people out there that have played with cryptocurr
 and probably some that have done quite well out of it.  Personally, I find it ethically and morally questionable to
 support this great waste of energy and perpetuate a few people at the top getting richer and richer.  But I realise 
 that many people don't share my opinion, and I have to put my hand up, I'm certainly now expert on blockchains and maybe 
-there is a technology out there that doesn't have the same downsides.   
+there is a technology out there that doesn't have the same downsides.  Certainly different blockchain technologies
+are attempting to stop the energy waste (Proof-of-Stake - PoS) yet often these solutions take us back to centralised
+approaches and I wonder why we don't just stick with a well understood database.
 
 I think this question of support or not support of cryptocurrencies or NFTs will split a lot of people working in
 tech - certainly I can see plenty of excitement on Twitter of about engineers getting into blockchain as well
 as plenty of expressions of [distaste about web3](https://twitter.com/peter_szilagyi/status/1483016569961730050?s=21), 
 but I hope that as software professionals we can avoid getting into the kind of divisions brought on by Trump or Brexit.
+Note, this is not an attack on blockchain the technology, but the concern about the ridiculous energy consumption.
 
 # Call to Arms! -ish
 
 Nevertheless, I think that software engineers and
-tech companies should ask themselves whether they would want to be working in this sector?  Isn't it just as unethical
-as working with the fossil fuel sector, weapons manufacturers or gambling companies?  Go check with your employer or clients, 
-I know I will...
+tech companies should ask themselves whether they would want to be working with tech that is harming the planet?  
+Isn't it just as unethical as working with the fossil fuel sector, weapons manufacturers or gambling companies?  
+Go check with your employer or clients, I know I will...
 

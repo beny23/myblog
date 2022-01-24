@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 20"
 date: 2022-01-06T22:14:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 Hmpf.  It's now January and I'm still doing Advent.  Still, I was determine to push ahead.  Then I got stuck good and
 proper on Day 19 - though to be fair the whole Log4shell dumpster fire was taking up a lot of time, so I decided to

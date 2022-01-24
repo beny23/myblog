@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 13"
 date: 2021-12-14T01:15:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 On day 13 of [Advent of Code 2021](https://adventofcode.com/2021) we had to do the impossible.  We
 were folding a transparent piece of paper 12 times.  Surely it isn't possible to fold paper

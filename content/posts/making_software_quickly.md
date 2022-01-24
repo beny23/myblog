@@ -1,6 +1,7 @@
 ---
 title: "Making Software. Quickly."
 date: 2020-07-19T08:54:48+01:00
+tags: ["agile", "covid-response"]
 ---
 
 In this post, I describe my personal experience of being part of a software development team working with Equal Experts and

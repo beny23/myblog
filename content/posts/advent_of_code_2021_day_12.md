@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 12"
 date: 2021-12-13T00:11:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 For [Advent of Code 2021](https://adventofcode.com/2021) day 12 it took me a while to get going
 though for reasons unrelated to coding, Norovirus is not pleasant!  So when I finally did

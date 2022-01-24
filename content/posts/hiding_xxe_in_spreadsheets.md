@@ -1,16 +1,15 @@
 ---
 title: "Hiding XXE in Spreadsheets"
 date: 2018-06-08T12:24:08+01:00
-category: ["security"]
+tags: ["security", "xml-is-evil"]
+featured_image: "/images/hiding_xxe_in_spreadsheets_title.jpg"
 ---
 
-![](/images/hiding_xxe_in_spreadsheets_title.jpg)
-
-Recently I tried to poke holes in a service.  I found myself [laughing out loud]({{< ref "/posts/laughing_out_loud_malicious_auth.md" >}}). 
+Recently I tried to poke holes in a service.  I found myself [laughing out loud]({{< ref "/posts/laughing_out_loud_malicious_auth.md" >}}). 
 This was a vulnerability whereby modifying a SAML authentication while being rePOSTed via the browser allowed 
-me to inject a malicious payload (see [XML External Entity (XXE) Processing](https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing) 
-and [XML External Entity (XXE) Prevention Cheat Sheet](https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Prevention_Cheat_Sheet)) 
-that could be used to use up a service's memory and CPU.  Health checks and automatic service restarts would have 
+me to inject a malicious payload (see [XML External Entity (XXE) Processing](https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing) 
+and [XML External Entity (XXE) Prevention Cheat Sheet](https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Prevention_Cheat_Sheet)) 
+that could be used to use up a service's memory and CPU.  Health checks and automatic service restarts would have 
 healed the service but it still would have allowed an attacker to mount a Denial of Service attack without 
 needing a lot of requests.
 
@@ -40,15 +39,15 @@ public WorksheetParser() throws ParserConfigurationException, SAXException
 and `WorksheetParser` was used to parse ODF spreadsheets (OpenOffice spreadsheets).
 
 In this app, "worksheet"s were used so that organisations can use a simple spreadsheet to collect their information and 
-upload it.  The app parsed the information and played it back to the user.
+upload it.  The app parsed the information and played it back to the user.
 
 Now, this got me thinking - as the ODF file format is just a ZIP file with XML content - and I had just found an 
 unsecured `SAXParserFactory`, how difficult would it be to exploit that?
 
 # The Exploit
 
-So I got the spreadsheet and opened it up in LibreOffice and I filled in some basic data including first name and 
-last name and saved the file.
+So I got the spreadsheet and opened it up in LibreOffice and I filled in some basic data including first name and 
+last name and saved the file.
 
 Then I unzipped it
 
@@ -102,7 +101,7 @@ The exploit was somewhat limited because the app validated the last name, and if
 ]>
 ```
 
-as per [https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html#instance-metadata-security-credentials](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html#instance-metadata-security-credentials)
+as per [https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html#instance-metadata-security-credentials](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html#instance-metadata-security-credentials)
 
 Also those credentials would have been somewhat limited as they were locked down.
 
@@ -134,5 +133,5 @@ as per the [OWASP XXE Prevention Cheat Sheet](https://www.owasp.org/index.php/XM
 # Moral of the Story
 
 *   Malicious XXE payloads can hidden in files that do not have the XML extension
-*   Do not assume that XML processing is safe by default (particular when using older libraries) 
+*   Do not assume that XML processing is safe by default (particular when using older libraries) 
 *   XML is evil

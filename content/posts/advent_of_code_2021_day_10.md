@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 10"
 date: 2021-12-10T23:30:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 Day 10 of [Advent of Code 2021](https://adventofcode.com/2021) was all about mismatched brackets.
 And I think Haskell did rather well on this as I found the expressiveness arrived at a really

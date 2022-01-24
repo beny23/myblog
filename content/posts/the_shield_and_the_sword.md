@@ -1,6 +1,7 @@
 ---
 title: "The Shield and the Sword"
 date: 2020-07-19T15:40:01+01:00
+tags: ["agile"]
 ---
 
 To successfully deliver software a developer needs a shield and a sword.

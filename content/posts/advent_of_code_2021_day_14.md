@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 14"
 date: 2021-12-15T01:28:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 After [Advent of Code 2021](https://adventofcode.com/2021) transparent origami on
 [Day 13]({{< ref "advent_of_code_2021_day_13.md" >}}) with more output than just a number, for Day 14 it was back 

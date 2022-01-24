@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 8"
 date: 2021-12-08T13:00:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 On day 8 [Advent of Code 2021](https://adventofcode.com/2021) adventure, part 1 lulled me into
 a false sense of security.  It took longer to read the instructions than implementing the

@@ -1,10 +1,9 @@
 ---
 title: "Advent of code 2021: Day 18"
 date: 2021-12-29T02:14:32Z
-category: ["functional","haskell","advent-of-code"]
+tags: ["functional","haskell","advent-of-code"]
+featured_image: "/images/advent_of_code_title.jpg"
 ---
-
-![](/images/advent_of_code_title.jpg)
 
 Day 18 of [Advent of Code 2021](https://adventofcode.com/2021) took rather a long time to get right.  Half of
 the problem was that there were a couple of gotchas in the requirements and the choice of data structure hugely
