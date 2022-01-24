@@ -133,3 +133,11 @@ tech companies should ask themselves whether they would want to be working with 
 Isn't it just as unethical as working with the fossil fuel sector, weapons manufacturers or gambling companies?  
 Go check with your employer or clients, I know I will...
 
+# EDITs
+
+After feedback and reflecting that this writing read as a pretty indiscriminatory attack on anything blockchain, 
+which wasn't my intention, I focused on Bitcoin.
+
+# Discussion
+
+- [Hacker News](https://news.ycombinator.com/item?id=30045146)
