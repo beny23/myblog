@@ -132,7 +132,7 @@ Now, if that trust is gone, there are only the following options:
 - Manually review the code for every commit (that means a lot of work - might not be practical if the licence has changed)
 - Fork the library (maintaining libraries is expensive and a huge commitment)
 
-The problem dependencies in modern software engineering is that only the biggest organisations have the resources
+The problem with dependencies in modern software engineering is that only the biggest organisations have the resources
 to write all their own libraries (e.g. [Google](https://www.quora.com/Why-does-Google-internally-overwhelmingly-use-its-own-in-house-developed-software-and-nearly-no-externally-originated-opensource-or-proprietary-software), 
 other organisations such as Goldman Sachs fall into that category too).  Most organisations simply do not have
 the capacity to write everything from scratch - and for good reason:  The whole point of open source is collaboration
@@ -140,7 +140,7 @@ and re-use, there has to be some trust.
 
 Dependencies and supply chain attacks are a big thing - and yes, some people advocate dependency scanning and 
 version pinning, but I don't think it is possible to use open source libs at scale without a certain amount of trust. 
-I'm work in an organisation where there are hundreds of teams and thousands of microservices. I'm trying to think 
+I'm working in an organisation where there are hundreds of teams and thousands of microservices. I'm trying to think 
 how we can assess the risk of thousands of dependencies and millions of lines of code. Without trust, the only way 
 that's possible is to fork all libs, prevent open source and generally kill off any agility and velocity. 
 
