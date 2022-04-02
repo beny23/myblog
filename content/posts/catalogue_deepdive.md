@@ -5,7 +5,7 @@ tags: ["agile","tools","paved-road","catalogue","digital-platform"]
 featured_image: "/images/catalogue_deepdive_title.jpg"
 ---
 
-This post peels back the covers on what it is like to work with a large digital platform at scale.  The
+This post peels back the covers on what it is like to work with a large digital platform.  The
 platform in question is MDTP - Multichannel Digital Tax Platform, which supports a 
 [UK-based tax collection agency](https://www.gov.uk/government/organisations/hm-revenue-customs)
 which is using [a hyperscale cloud provider with a sideline in books](https://aws.amazon.com/).  
