@@ -151,3 +151,8 @@ obscurity.
 
 It's not about sitting on the fence or taking sides in a war. It's about what open source has achieved over the last 
 30 years and I think that's now at risk of become collateral damage.
+
+Postscript:
+
+This post was discussed on [Hacker News](https://news.ycombinator.com/item?id=30726098) and was republished by the
+[IEEE Computer Society](https://www.computer.org/publications/tech-news/community-voices/on-the-weaponization-of-open-source).
