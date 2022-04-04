@@ -122,7 +122,7 @@ a success - so much so that the yearly "Key Business Event" of [Self-Assessment]
 is now viewed as "Business As Usual" on the platform.  [Tax Doesn't Have to be Taxing](https://www.youtube.com/watch?v=xgQewKiBQlU)
 not even for platform engineers...
 
-Back to my point and the catalogue! In order ensure that the 100 teams and nearly 1,000 engineers that have got GitHub 
+Back to my point and the catalogue! In order to ensure that the 100 teams and nearly 1,000 engineers that have got GitHub 
 access don't stray off the paved road and get into difficulty, the PlatOps team have made some tools to check on what
 the service teams are up to and provide specialist teams (UI, testing, AppSec, DB) that can provide expert assistance
 without each individual service team having to develop that expertise on their own. 
