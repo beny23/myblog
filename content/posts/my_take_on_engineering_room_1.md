@@ -1,7 +1,7 @@
 ---
 title: "Context and Lines - My Take on Engineering Room Ep 1"
 date: 2021-12-10T16:30:32Z
-tags: ["my-take-on"]
+tags: ["my-take-on", "agile"]
 ---
 
 [Dave Farley](https://twitter.com/davefarley77) and [Martin Fowler](https://twitter.com/martinfowler) are two heavyweights
