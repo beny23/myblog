@@ -2,6 +2,7 @@
 title: "A mission statement that actually makes sense"
 date: 2022-08-11T16:40:01+01:00
 tags: ["agile","digital-platform","paved-road"]
+featured_image: "/images/simple_and_secure_services_for_all_title.png"
 ---
 
 I was really positively and pleasantly surprised when I found out what HMRC Digital's mission statement was. 
