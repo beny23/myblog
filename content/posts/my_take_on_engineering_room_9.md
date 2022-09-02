@@ -1,6 +1,6 @@
 ---
 title: "Less is more agile"
-date: 2022-09-01T03:30:32Z
+date: 2022-09-01T02:30:32Z
 tags: ["my-take-on", "agile"]
 featured_image: "/images/my_take_on_engineering_room_9_title.jpg"
 ---
