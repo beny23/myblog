@@ -177,4 +177,9 @@ a few Post-It notes are sufficient.
 So using that hook of "simplicity", the best advice for "doing agile" is:
 
 1. Read the [manifesto](https://agilemanifesto.org)
-2. Figure out what makes you happy. And do that. 
+2. Figure out what makes you happy. And do that.
+
+Addendum:
+
+This is discussed on [Hacker News](https://news.ycombinator.com/item?id=32706548) and if you'd like to find more of
+my writing, why not follow me on [Twitter](https://twitter.com/giskard23)?
