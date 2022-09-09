@@ -85,7 +85,7 @@ of software engineering is (relatively speaking) the easy bit.  Coming up with t
 which ones to use is the hard bit.  
 
 Too often have I heard "this wasn't in the requirements" when something failed.  No, as developers we cannot just rely on
-someone else to tell us what we have to write.  That is not what coding is about.  Requirements need to be challenged.  
+someone else to tell us what we have to write.  That is not what coding is about.  Requirements need to be challenged. 
 If something doesn't add any value to a system, why spend time building it?  If something is just gold-plating, there
 needs to be a valid reason to expend energy to build it.  In order to be able to do that, a developer has to be able to 
 communicate how a system works.  Often this communication has to cut across different levels of technical expertise.
@@ -121,7 +121,7 @@ As soon as I see any of the above, I think it becomes clear that the people invo
 * Doesn't really lend itself to agonising in 6 hour meeting day whether sub-ticket PLP-124 should be 5 or 8 story points
 
 I understand that there is often an organisational desire to measure and standardise developers.  I also get that some 
-~people~ beancounters don't understand that developers are not "resources", and cannot just be swapped out by bringing in 
+~~people~~ beancounters don't understand that developers are not "resources", and cannot just be swapped out by bringing in 
 cheaper contractors or graduates fresh out of university.  But I don't understand when developers themselves don't
 look to review their ways of working, and if something doesn't work, it doesn't get dumped because that's what we've
 always done; or that's what the certification says we should do.
@@ -161,9 +161,9 @@ experience with Java, Oracle, XML or JUnit.  Nothing.  I've marked tests by peop
 were making the most elementary mistakes, and I've interviewed people that were 2 years out of university that 
 taught me new things during an interview.
 
-When I am interviewing and thinking, would I want to work with this person on my current project, I  
+When I am interviewing and thinking, would I want to work with this person on my current project, I 
 do have to think about the project.  I am a contractor, and I don't particularly want another contractor joining 
-the project that has no experience with the main language.  If I'm on a Scala project and the candidate only  
+the project that has no experience with the main language.  If I'm on a Scala project and the candidate only 
 knows C#, then that will mean that they can't really hit the ground running.  But should this mean that when looking
 to fill a position, we should only be looking for people that specifically have the exact experience that everyone
 else on the team has?
@@ -242,6 +242,7 @@ tasks).
 
 Take-home tests and pairing exercises should not be onerous.  When developers look to change jobs, they shouldn't have
 to spend a weeks worth of work, just to fail at the 5th interview.  I don't think that is fair on developers.  
+
 I also don't think that outsourcing these tests to places like leetcode is ideal.  I don't think leetcode lends itself
 to assessing whether people write maintainable code.  Much better to judge it yourself and check whether this is code that I would want
 to pick up 6 months after the developer moved onto a different project.  I also don't think that hand-implementing sorting 

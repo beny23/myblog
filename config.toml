@@ -22,6 +22,7 @@ googleAnalytics = "UA-171035600-1"
   rss = ""
   show_reading_time = true
   featured_image = "/images/background.png"
+  recent_posts_number = 6
 
 [[menu.main]]
     name = "About"
