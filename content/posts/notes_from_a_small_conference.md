@@ -48,7 +48,7 @@ important ones (vis-a-vis [bikeshedding](https://en.wikipedia.org/wiki/Law_of_tr
 
 # No Deadlines
 
-Finally, Sree gave a [fantastic talk](https://leanagile.scot/programme/machine-learning-travelopia) where the told 
+Finally, Sree gave a [fantastic talk](https://leanagile.scot/programme/machine-learning-travelopia) where they told 
 the amazing story where he took over a project that had been
 put in by a big consultancy with a team of 40 and costing $1 million for 18 months and not delivering any value.
 He and his team replaced this with an agile team of 8 that produced first results in 3 months.  To be able to get 
