@@ -52,7 +52,7 @@ necessary. And in my opinion, fewer meetings will increase effective collaborati
 
 These days a lot of people's home internet connection is actually faster than in the office. Maybe I'm over-generalising
 based on my experience which could be quite localised. But I do think that often people's own equipment is better than
-what's provided in the office. I know I prepare my own laptop to a company provided one that is loaded with corporate
+what's provided in the office. I know I prefer my own laptop to a company provided one that is loaded with corporate
 virus scanners, endpoint protection and 15 other bits of software that run in the background and make an expensive 
 laptop feel rather pedestrian.
 
