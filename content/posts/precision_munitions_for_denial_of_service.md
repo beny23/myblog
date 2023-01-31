@@ -112,3 +112,6 @@ raised a CVE. The turnaround was quite impressive. Even more so when considering
 - WAFs are an important defence mechanism but not the answer for everything
 - To carry out precision strikes requires knowledge about the target system, but often it is easy to find out about
   who uses what framework.
+- When evaluating vulnerabilities in frameworks, do not ignore CVEs with a lower CVSS score - 
+  denial of service CVEs will not reach a score of (I think) higher than 7.5.  CVSS scores are a bit of a 
+  [bugbear of of mine]({{< ref "curating_vulnerabilities.md" >}}) anyway!
