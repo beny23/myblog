@@ -87,9 +87,9 @@ And then I can run the script again. And again. And again.
 
 # WAF to the rescue! Or not.
 
-The other interesting thing with this attack vector is that a WAF can be bypassed quite easily.  As most WAFs only look
-at the first 8 or 16 KB and use regular expressions to find known bad patterns, it means that the payload can often
-be hidden by just prefixing it with 8K of whitespace.
+The other interesting thing with this attack vector is that a Web Application Firewall (WAF) can be bypassed quite easily. 
+As most WAFs only look at the first 8 or 16 KB and use regular expressions to find known bad patterns, it means that the 
+payload can often be hidden by just prefixing it with 8K of whitespace.
 
 And if the attacker keeps running 20 requests every minute, it is quite conceivable that they could keep a system
 down for quite a while as it would be difficult to distinguish the attack payloads from normal payloads.
