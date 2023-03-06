@@ -95,7 +95,7 @@ Where does it end?
 - What about a licence that demands you are pro-life/pro-choice?
 - What about a licence that demands you vote Democrat/Republican?
 
-I think it is quite undesirable to politicise/weaponise open source that way.  Depending one what kind of organisation
+I think it is quite undesirable to politicise/weaponise open source that way.  Depending on what kind of organisation
 that you work with, it might be completely unacceptable and outside the permissions for an engineer to agree to these
 kind of contracts.  I can't imagine that a government agency would want to discover that the software their using
 is mandating some kind of political stance.
