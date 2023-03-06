@@ -98,9 +98,7 @@ END
 
 I think in software engineering it is easy to forget that at its heart it is a social and collaborative process.
 Software is not created by hoodie-wearing loners in a garage, it is created by teams of people who collaborate
-to get the most out of their creative thinking and engineer a solution.  And as such anything that prevents that
-such as treating of people as resources or replacing them with robots might look good on some short-term financial
-reports but is not going to be rather expensive in the long run.
-
-
+to get the most out of their creative thinking and engineer a solution. Anything that prevents that -
+such as treating of people as resources or replacing them with robots - might look good on some short-term financial
+reports, it is going to be rather expensive in the long run.
 
