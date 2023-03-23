@@ -141,7 +141,7 @@ Tokens are good fun to search for.
   include the authorisation header but obfuscate the value.
 - Looking for Bearer AND `/[A-Z0-9]{32}/` can be easier (assuming the bearer token is a 32-character string)
 
-## Based-64 encoded strings
+## Base-64 encoded strings
 
 - Searching for `eyJ*` will return base64 encoded JSON - as this is the base64 representation of `{"` which will 
   typically lead to some interesting JSON. Because base64 data is not immediately visible in the logs, it often
