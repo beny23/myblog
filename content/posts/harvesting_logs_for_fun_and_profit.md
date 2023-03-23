@@ -15,7 +15,7 @@ operating at scale.
 
 In any suitably large organisation, the number of services or log streams are going to be much bigger than
 is possible for anyone to keep in their heads. This makes it really important to have good logging infrastructure.
-I don't want to be able to have to ssh into individual instances to be able to search log files. Fortunately, there
+I don't want to have to ssh into individual instances to be able to search log files. Fortunately, there
 are a number of solutions that allow the logs to be shipped to a central place and then searched. A popular approach
 is the [ELK stack](https://www.elastic.co/what-is/elk-stack) which is ElasticSearch (storage, indexing and searching),
 Logstash (shipping the logs from services) and Kibana (User interface). Other approaches are available, but for the
