@@ -68,7 +68,7 @@ lots of changes just because a dependency gets updated. If there is that subtle 
 production, overworked live teams often don't get the time to monitor all the deployments and look for signs of things 
 subtly going wrong.
 
-Automatically updating dependencies might not such a good idea then.
+Automatically updating dependencies might not be such a good idea then.
 
 # Legacy software
 
