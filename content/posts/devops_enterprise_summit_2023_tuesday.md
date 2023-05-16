@@ -10,7 +10,7 @@ just glimpsing the paper crane that was so lovingly put on my pillow, I'm starti
 what has happened during the day. I was lucky enough to be a guest at the DevOps Enterprise Summit. There was certainly
 plenty of things to get excited about. 
 
-I'd meet Gene Kim, whose been running this conference for 10 years and who wrote the
+I'd meet Gene Kim, who's been running this conference for 10 years and who wrote the
 Phoenix Project. He was very warm, welcoming and excited to say hello to little old me. 
 
 ![Gene Kim](/images/devops_enterprise_summit_2023_tuesday_gene_kim.jpg)
