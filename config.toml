@@ -3,7 +3,7 @@ languageCode = "en-gb"
 title = "Tales about Software Engineering"
 copyright = "Software Design Systems"
 theme = "ananke"
-googleAnalytics = "UA-171035600-1"
+googleAnalytics = ""
 
 [params]
   favicon = ""
