@@ -126,7 +126,7 @@ be a great way of spreading security skills and sharing the vulnerability analys
 [AskAppSec post on Security Champions](https://www.lisihocke.com/2023/10/askappsec-security-champions.html) is a great 
 place to start.
 
-## Secure Software over Security Policies
+## Collaboration over Policies
 
 I don't like the blame game or finger-pointing. It makes no difference whose fault a security breach is. Fact of the
 matter is, security incidents will happen. Things go wrong, and attackers will succeed. I'd much rather help developers
