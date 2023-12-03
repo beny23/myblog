@@ -168,3 +168,5 @@ Using the "AI" taught me a fair amount about Kotlin, so in a way it was a succes
 already knew Java and Scala and because of a fair amount of traditional googling. I was quite impressed how easy
 it was to get an LLM running locally, but that may well be down to me not having played with LLMs previously. Who knows,
 maybe Copilot or ChatGPT4 are much better, but I remain sceptical. 
+
+For [day 2]({{< ref "advent_of_code_2023_day_2_ai_experiments.md" >}}) I think I'll approach it differently.
