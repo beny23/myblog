@@ -121,3 +121,5 @@ and just imagined it was very much closer to Java:
 
 I'll be back for more frustrations with LLMs for the next day, if you think I'm doing something glaringly obviously
 wrong, please reach out. I don't want to just bash LLMs, but so far my scepticism has been reinforced.
+
+Check out [day 3]({{< ref "advent_of_code_2023_day_3_ai_experiments.md" >}}) where I change model.
