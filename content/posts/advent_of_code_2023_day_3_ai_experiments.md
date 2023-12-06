@@ -233,4 +233,4 @@ working off the grid made it much simpler. But that's an approach, that I was dr
 I am still sceptical about using the model to do my coding for me. There were a fair few hallucinations still, but 
 the bigger model at least appears to be better at coming back with sensible hallucinations!
 
-See you on Day 4.
+See you on [Day 4]({{< ref "advent_of_code_2023_day_4_ai_experiments.md" >}}).
