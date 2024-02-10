@@ -2,7 +2,7 @@
 title: "Cyber Measures Up in Manchester"
 date: 2024-02-09
 tags: ["appsec","security","conference"]
-featured_image: "/images/cyber_manchester_2024_title.png"
+featured_image: "/images/cyber_manchester_2024_title.jpg"
 ---
 
 Peter Drucker said "What gets measured, gets managed". When I turned up at Old Trafford, home of Manchester's red team
