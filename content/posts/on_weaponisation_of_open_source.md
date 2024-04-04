@@ -1,7 +1,7 @@
 ---
 title: "On the weaponisation of open source"
 date: 2022-03-18T14:30:32Z
-tags: ["my-take-on","security"]
+tags: ["my-take-on","security","open-source"]
 featured_image: "/images/on_weaponisation_of_open_source_title.jpg"
 ---
 
