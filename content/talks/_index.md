@@ -126,7 +126,7 @@ Precision Munitions for Denial of Service
 [experience report]({{< ref "/posts/bsides_ncl_2023.md" >}})
 
 21st-22nd:
-[DevOpsDays London](https://devopsdays.org/events/2023-london/welcome/)
+[DevOpsDays London](https://devopsdays.org/events/2023-london/welcome/)  
 Give the Worst Jobs to the Best Engineers  
 rejected [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
