@@ -130,6 +130,12 @@ Precision Munitions for Denial of Service
 Give the Worst Jobs to the Best Engineers  
 rejected [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
+21st:
+[OWASP Manchester](https://www.meetup.com/owasp-manchester-uk-chapter/events/295909646/)  
+Precision Munitions for Denial of Service  
+[video](https://youtu.be/b2o4m-eE-io) [related blogpost]({{< ref "/posts/precision_munitions_for_denial_of_service.md" >}})
+
+
 13th-15th:
 [44con](https://44con.com/44con-2023/)  
 Precision Munitions for Denial of Service  
