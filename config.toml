@@ -33,8 +33,12 @@ googleAnalytics = ""
     weight = 2
     url  = "/posts/"
 [[menu.main]]
-    name = "Tags"
+    name = "Talks"
     weight = 3
+    url  = "/talks/"
+[[menu.main]]
+    name = "Tags"
+    weight = 4
     url  = "/tags/"
 
 [markup]
