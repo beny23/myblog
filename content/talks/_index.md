@@ -91,6 +91,11 @@ submitted but no response [related blogpost]({{< ref "/posts/precision_munitions
 
 # March 2024
 
+27th:
+[BSides Lancashire](https://www.bsideslancashire.org)  
+AppSec Loves Agile  
+accepted but had to withdraw [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+
 14th-15th:
 [NullCon: Berlin](https://nullcon.net/berlin-2024/)  
 AppSec Loves Agile  
