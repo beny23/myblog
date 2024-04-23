@@ -12,7 +12,7 @@ rejected [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}
 
 6th-7th:
 [Agile in the City: Bristol](https://wereviewhq.com/v1/propose/aitcbristol2024):  
-not yet submitted, CFP closes 21st April
+missed submission, CFP closed 21st April
 
 5th:
 [LeadingEng Berlin](https://leaddev.com/leadingeng-berlin)  
