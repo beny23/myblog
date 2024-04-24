@@ -48,10 +48,10 @@ submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 # July 2024
 
-19th-21st:
+20th:
 [SteelCon: Sheffield](https://www.steelcon.info)  
 AppSec for devs: the good, the bad and the ugly   
-submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+accepted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 4th-5th:
 [Agile on the Beach](https://agileonthebeach.com/the-conference/schedule/)  
