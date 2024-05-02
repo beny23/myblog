@@ -33,9 +33,8 @@ not yet submitted, CFP closes 24th May
 
 25th-27th:
 [Lean Agile Scotland](https://leanagile.scot/)  
-AppSec Loves Agile [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
-Love Letter to Legacy [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
-submitted 
+AppSec Loves Agile   
+accepted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 17th-19th:
 [44Con: London](https://44con.com/cfp-2024/)  
