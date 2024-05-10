@@ -45,6 +45,10 @@ not yet submitted, CFP closes 31st May
 AppSec Loves Agile  
 submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
+10th:
+[Fast Flow Conf](https://www.fastflowconf.com)  
+not decided on submission yet, CFP closes 19th May
+
 # July 2024
 
 20th:
