@@ -19,6 +19,10 @@ missed submission, CFP closed 21st April
 From engineer to head of engineering  
 submitted
 
+4th-8th:
+[Manchester Tech Festival](https://sessionize.com/manchester-tech-festival-2024/):  
+not yet submitted, CFP closes 7th June
+
 # October 2024
 
 7th-11th:
@@ -71,7 +75,7 @@ accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}
 15th:
 [BSides Leeds](https://bsidesleeds.com)  
 AppSec for devs: the good, the bad and the ugly   
-submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 10th-14th:
 [PlatformCon: virtual](https://platformcon.com/)  
@@ -79,6 +83,12 @@ Love Letter to Legacy
 accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
 # May 2024
+
+15th-17th:
+[Agile Manchester](https://agilemanchester.net/programme/love-letter-legacy)  
+Love Letter to Legacy  
+accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+[experience report]({{< ref "/posts/agile_manchester_2024.md" >}})
 
 8th-10th:
 [Devoxx UK](https://www.devoxx.co.uk)  
