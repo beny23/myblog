@@ -42,12 +42,13 @@ accepted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 17th-19th:
 [44Con: London](https://44con.com/cfp-2024/)  
-not yet submitted, CFP closes 31st May
+AppSec Loves Agile  
+submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 12th
 [Agile Tour Vienna](https://agiletourvienna.at)  
 AppSec Loves Agile  
-submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+accepted but had to withdraw [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 10th:
 [Fast Flow Conf](https://www.fastflowconf.com)  
