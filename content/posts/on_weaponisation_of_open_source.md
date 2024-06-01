@@ -42,7 +42,7 @@ Now, supply chain attacks against node modules is nothing new.  Not many months 
 installing backdoors or cryptominers.  I think it is safe to say that everyone agrees that these attacks are malicious
 and the actions are those of criminals.
 
-With this idea of "protestware" it becomes morally a little bit ambigious.  I think this feels a little bit of a problem
+With this idea of "protestware" it becomes morally a little bit ambiguous.  I think this feels a little bit of a problem
 of recent times where because of Brexit or Trump, political discourse has turned to be very divisive and tribal.  You
 are either with us, or against us.  In my mind, the term "protestware" is attempting to legitimise the malicious actions
 and very much turns open source libraries into weapons to be aimed and fired at your opponent.  
