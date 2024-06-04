@@ -33,7 +33,10 @@ not yet submitted, CFP opens 3rd June, closes 12th July
 
 26th-27th:
 [DevOpsDays London](https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIuL49YOabkYDInbnyKD1g/viewform)  
-not yet submitted, CFP closes 24th May
+AppSec Loves Agile  
+submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
+Love Letter to Legacy  
+submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
 25th-27th:
 [Lean Agile Scotland](https://leanagile.scot/)  
