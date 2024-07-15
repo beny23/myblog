@@ -30,7 +30,15 @@ submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >
 
 7th-11th:
 [Devoxx Belgium](https://devoxx.be)  
-not yet submitted, CFP opens 3rd June, closes 12th July 
+AppSec Loves Agile  
+submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
+Love Letter to Legacy  
+submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+
+5th:
+[BSides Newcastle](https://www.bsidesnewcastle.org)  
+AppSec Loves Agile  
+submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 # September 2024
 
@@ -49,7 +57,7 @@ accepted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 17th-19th:
 [44Con: London](https://44con.com/cfp-2024/)  
 AppSec Loves Agile  
-submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 12th
 [Agile Tour Vienna](https://agiletourvienna.at)  
