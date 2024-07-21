@@ -22,9 +22,9 @@ submitted
 4th-8th:
 [Manchester Tech Festival](https://sessionize.com/manchester-tech-festival-2024/):  
 AppSec Loves Agile  
-submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
+rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
 Love Letter to Legacy  
-submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+rejected [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
 # October 2024
 
