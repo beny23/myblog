@@ -3,6 +3,15 @@ title: My talks calendar
 featured_image: "/images/talks_title.jpg"
 ---
 
+# February 2025
+
+27th-28th:
+[Devworld Conference](https://devworldconference.com)  
+AppSec Loves Agile  
+submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
+Love Letter to Legacy  
+submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+
 # November 2024
 
 19th-22nd:
@@ -13,11 +22,6 @@ rejected [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}
 6th-7th:
 [Agile in the City: Bristol](https://wereviewhq.com/v1/propose/aitcbristol2024):  
 missed submission, CFP closed 21st April
-
-5th:
-[LeadingEng Berlin](https://leaddev.com/leadingeng-berlin)  
-From engineer to head of engineering  
-submitted
 
 4th-8th:
 [Manchester Tech Festival](https://sessionize.com/manchester-tech-festival-2024/):  
@@ -31,14 +35,14 @@ rejected [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}
 7th-11th:
 [Devoxx Belgium](https://devoxx.be)  
 AppSec Loves Agile  
-submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
+rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
 Love Letter to Legacy  
-submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
 5th:
 [BSides Newcastle](https://www.bsidesnewcastle.org)  
 AppSec Loves Agile  
-submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 # September 2024
 
