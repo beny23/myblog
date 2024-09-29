@@ -3,6 +3,13 @@ title: My talks calendar
 featured_image: "/images/talks_title.jpg"
 ---
 
+# March 2025
+
+27th-28th:
+[Scan Agile](https://www.scan-agile.org)  
+Love Letter to Legacy  
+submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+
 # February 2025
 
 27th-28th:
@@ -57,6 +64,7 @@ rejected [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}
 [Lean Agile Scotland](https://leanagile.scot/)  
 AppSec Loves Agile   
 accepted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+[experience report]({{< ref "/posts/lean_agile_scotland_2024.md" >}})
 
 17th-19th:
 [44Con: London](https://44con.com/cfp-2024/)  
@@ -78,18 +86,23 @@ not submitted, CFP closed 19th May
 [SteelCon: Sheffield](https://www.steelcon.info)  
 AppSec for devs: the good, the bad and the ugly   
 accepted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+[experience report]({{< ref "/posts/steel_con_2024.md" >}})
 
 4th-5th:
 [Agile on the Beach](https://agileonthebeach.com/the-conference/schedule/)  
 Application security loves agile  
-accepted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+[video](https://youtu.be/7tK6uEs0-IQ)
+[related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+[experience report]({{< ref "/posts/aotb_2024.md" >}})
 
 # June 2024
 
 19th-21st:
 [DevOpsDays Amsterdam](https://devopsdays.org/events/2024-amsterdam/program/gerald-benischke/)  
-Love Letter to Legacy  
-accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+Love Letter to Legacy
+[video](https://youtu.be/nYO4dhQZk20)
+[related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+[experience report]({{< ref "/posts/devopsdays_amsterdam_2024.md" >}})
 
 15th:
 [BSides Leeds](https://bsidesleeds.com)  
@@ -99,14 +112,15 @@ rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 10th-14th:
 [PlatformCon: virtual](https://platformcon.com/)  
 Love Letter to Legacy  
-accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+[video](https://youtu.be/OublDjPo6bM)
+[related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
 # May 2024
 
 15th-17th:
 [Agile Manchester](https://agilemanchester.net/programme/love-letter-legacy)  
 Love Letter to Legacy  
-accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+[related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 [experience report]({{< ref "/posts/agile_manchester_2024.md" >}})
 
 8th-10th:
@@ -205,7 +219,7 @@ rejected [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}
 15th-17th:
 [DevOps Enterprise Summit Amsterdam](https://doesamsterdam2023.sched.com)  
 Scaling application security to 100+ teams at HMRC Digital
-accepted but had to withdraw talk - [experience report]({{< ref "/posts/devops_enterprise_summit_2023_tuesday.md" >}})
+accepted but had to withdraw talk [experience report]({{< ref "/posts/devops_enterprise_summit_2023_tuesday.md" >}})
 
 3rd:
 [Experts Talks Online](https://www.equalexperts.com/expert-talks/scaling-application-security-to-100-teams-at-hmrc-digital/)  
