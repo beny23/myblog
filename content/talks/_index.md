@@ -44,7 +44,7 @@ rejected [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}
 AppSec Loves Agile  
 rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
 Love Letter to Legacy  
-accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+accepted but had to withdraw [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
 5th:
 [BSides Newcastle](https://www.bsidesnewcastle.org)  
