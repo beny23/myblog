@@ -3,12 +3,28 @@ title: My talks calendar
 featured_image: "/images/talks_title.jpg"
 ---
 
+# April 2025
+
+7th-11th:
+[QCon London](https://qconlondon.com/)  
+Love Letter to Legacy  
+submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
+Engineering a modern FinTech with not-so-modern problems  
+submitted
+
 # March 2025
 
 27th-28th:
 [Scan Agile](https://www.scan-agile.org)  
 Love Letter to Legacy  
 submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+
+18th-21st:
+[Appdevcon](https://appdevcon.nl)  
+Love Letter to Legacy  
+submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
+Engineering a modern FinTech app with not-so-modern problems  
+submitted
 
 # February 2025
 
