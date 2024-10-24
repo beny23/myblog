@@ -1,7 +1,7 @@
 ---
 title: "AI-dvent of Code 2023: Day 1"
 date: 2023-12-02
-tags: ["functional","kotlin","advent-of-code","llm"]
+tags: ["functional","kotlin","advent-of-code","generative-ai"]
 featured_image: "/images/advent_of_code_2023_day_1_ai_experiments_title.png"
 ---
 

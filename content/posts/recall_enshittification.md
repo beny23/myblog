@@ -1,7 +1,7 @@
 ---
 title: "Recall: the Amazonification of Office Work"
 date: 2024-06-01
-tags: ["my-take-on","security","agile"]
+tags: ["my-take-on","security","generative-ai"]
 featured_image: "/images/recall_enshittification_title.jpg"
 ---
 
