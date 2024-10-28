@@ -5,7 +5,7 @@ tags: ["agile"]
 featured_image: "/images/non_recurring_meeting_zone_calendar_title.jpg"
 ---
 
-Have you every struggled to find time for a workshop or a decent conversation? Because when you open your
+Have you ever struggled to find time for a workshop or a decent conversation? Because when you open your
 calendar it looks like this?
 
 ![Calendar mess](/images/non_recurring_meeting_zone_calendar_mess.png)
