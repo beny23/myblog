@@ -2,7 +2,7 @@
 title: "How to make time to talk?"
 date: 2024-10-28
 tags: ["agile"]
-featured_image: "/images/notes_from_a_small_conference_title.png"
+featured_image: "/images/non_recurring_meeting_zone_calendar_title.jpg"
 ---
 
 Have you every struggled to find time for a workshop or a decent conversation? Because when you open your
