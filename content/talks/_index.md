@@ -3,14 +3,21 @@ title: My talks calendar
 featured_image: "/images/talks_title.jpg"
 ---
 
+# July 2025
+
+3rd-4th:
+[Agile on the Beach](https://agileonthebeach.com/the-conference/schedule/)  
+Agile Engineering Leadership  
+submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+
 # April 2025
 
 7th-11th:
 [QCon London](https://qconlondon.com/)  
 Love Letter to Legacy  
 submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
-Engineering a modern FinTech with not-so-modern problems  
-submitted
+Engineering a modern app with not-so-modern problems  
+submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 # March 2025
 
@@ -23,8 +30,8 @@ submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >
 [Appdevcon](https://appdevcon.nl)  
 Love Letter to Legacy  
 submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
-Engineering a modern FinTech app with not-so-modern problems  
-submitted
+Engineering a modern app with not-so-modern problems  
+submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 # February 2025
 
