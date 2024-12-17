@@ -7,8 +7,8 @@ featured_image: "/images/talks_title.jpg"
 
 3rd-4th:
 [Agile on the Beach](https://agileonthebeach.com/the-conference/schedule/)  
-Agile Engineering Leadership  
-submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+Becoming an agile Head of Engineering  
+accepted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 # April 2025
 
@@ -24,7 +24,7 @@ submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 27th-28th:
 [Scan Agile](https://www.scan-agile.org)  
 Love Letter to Legacy  
-submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
 18th-21st:
 [Appdevcon](https://appdevcon.nl)  
