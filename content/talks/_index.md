@@ -12,6 +12,13 @@ accepted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 # April 2025
 
+16th:
+[BSides Lancashire](https://www.bsideslancashire.org)  
+AppSec Loves Agile  
+submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+Love Letter to Legacy  
+submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+
 7th-11th:
 [QCon London](https://qconlondon.com/)  
 Love Letter to Legacy  
