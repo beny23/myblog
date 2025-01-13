@@ -10,6 +10,13 @@ featured_image: "/images/talks_title.jpg"
 Becoming an agile Head of Engineering  
 accepted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
+# June 2025
+
+16th-17th:
+[LeadDev LDX3](https://leaddev.com/leaddev-london/)  
+Agile Engineering Leadership  
+submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+
 # April 2025
 
 16th:
