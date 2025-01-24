@@ -7,10 +7,15 @@ featured_image: "/images/talks_title.jpg"
 
 3rd-4th:
 [Agile on the Beach](https://agileonthebeach.com/the-conference/schedule/)  
-Becoming an agile Head of Engineering  
+Agile Engineering Leadership  
 accepted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 # June 2025
+
+18th-20th:
+[DevOpsDays Amsterdam](https://devopsdays.org/events/2025-amsterdam/)  
+Agile Engineering Leadership  
+submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 16th-17th:
 [LeadDev LDX3](https://leaddev.com/leaddev-london/)  
@@ -22,7 +27,7 @@ submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 16th:
 [BSides Lancashire](https://www.bsideslancashire.org)  
 AppSec Loves Agile  
-submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
 Love Letter to Legacy  
 submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
