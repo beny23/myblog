@@ -48,9 +48,9 @@ accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}
 18th-21st:
 [Appdevcon](https://appdevcon.nl)  
 Love Letter to Legacy  
-submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
+rejected [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
 Engineering a modern app with not-so-modern problems  
-submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+rejected [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 # February 2025
 
