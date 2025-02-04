@@ -22,6 +22,12 @@ submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 Agile Engineering Leadership  
 submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
+# May 2025
+
+[Agile Manchester](https://agilemanchester.net)  
+Agile Engineering Leadership  
+submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+
 # April 2025
 
 16th:
