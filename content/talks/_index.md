@@ -26,16 +26,16 @@ submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 [Agile Manchester](https://agilemanchester.net)  
 Agile Engineering Leadership  
-submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+rejected [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 # April 2025
 
 16th:
 [BSides Lancashire](https://www.bsideslancashire.org)  
 AppSec Loves Agile  
-submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
+rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
 Love Letter to Legacy  
-submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
 7th-11th:
 [QCon London](https://qconlondon.com/)  
@@ -63,9 +63,9 @@ rejected [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 27th-28th:
 [Devworld Conference](https://devworldconference.com)  
 AppSec Loves Agile  
-submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
+rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
 Love Letter to Legacy  
-submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+rejected [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
 # November 2024
 
