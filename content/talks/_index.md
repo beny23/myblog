@@ -15,7 +15,7 @@ accepted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 18th-20th:
 [DevOpsDays Amsterdam](https://devopsdays.org/events/2025-amsterdam/)  
 Agile Engineering Leadership  
-submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+rejected [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 16th-17th:
 [LeadDev LDX3](https://leaddev.com/leaddev-london/)  
