@@ -3,6 +3,22 @@ title: My talks calendar
 featured_image: "/images/talks_title.jpg"
 ---
 
+# November 2025
+
+24th-27th:
+[Agile Testing Days](https://agiletestingdays.com/call-for-papers)  
+Dysfunction Scaling  
+submitted
+
+# September 2025
+
+25th-27th:
+[Lean Agile Scotland](https://leanagile.scot/)  
+Dysfunction Scaling  
+submitted  
+Agile Engineering Leadership  
+submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+
 # July 2025
 
 3rd-4th:
