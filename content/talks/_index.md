@@ -10,6 +10,13 @@ featured_image: "/images/talks_title.jpg"
 Dysfunction Scaling  
 submitted
 
+5th-7th:
+[Øredev](https://oredev.org)  
+Love Letter to Legacy  
+submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
+AppSec Loves Agile  
+submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+
 # September 2025
 
 25th-27th:
