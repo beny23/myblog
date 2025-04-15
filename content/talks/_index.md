@@ -19,11 +19,23 @@ submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 # September 2025
 
+30th-1st:
+[ONE Conference](https://one-conference.nl)  
+Precision Munitions for Denial of Service  
+submitted [related blogpost]({{< ref "/posts/precision_munitions_for_denial_of_service.md" >}})
+AppSec Loves Agile  
+submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+
 25th-27th:
 [Lean Agile Scotland](https://leanagile.scot/)  
 Dysfunction Scaling  
 submitted  
 Agile Engineering Leadership  
+submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+
+23th-24th:
+[CTO Craft Con: Berlin](https://conference.ctocraft.com/berlin-2025/)  
+How to fail as first time head of engineering  
 submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 # July 2025
@@ -63,9 +75,9 @@ accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}
 7th-11th:
 [QCon London](https://qconlondon.com/)  
 Love Letter to Legacy  
-submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
+submitted no response [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
 Engineering a modern app with not-so-modern problems  
-submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+submitted no response [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 # March 2025
 
