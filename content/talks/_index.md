@@ -29,14 +29,23 @@ submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 25th-27th:
 [Lean Agile Scotland](https://leanagile.scot/)  
 Dysfunction Scaling  
-submitted  
+rejected  
 Agile Engineering Leadership  
-submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+rejected [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 23th-24th:
 [CTO Craft Con: Berlin](https://conference.ctocraft.com/berlin-2025/)  
 How to fail as first time head of engineering  
 submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+
+3rd-4th:
+[JavaZone.no](https://2025.javazone.no/en)  
+AppSec Loves Agile  
+submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
+Love Letter to Legacy  
+submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
+Precision Munitions for Denial of Service  
+submitted [related blogpost]({{< ref "/posts/precision_munitions_for_denial_of_service.md" >}})
 
 # July 2025
 
@@ -55,7 +64,7 @@ rejected [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 16th-17th:
 [LeadDev LDX3](https://leaddev.com/leaddev-london/)  
 Agile Engineering Leadership  
-submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+rejected [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 # May 2025
 
