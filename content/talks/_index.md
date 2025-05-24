@@ -17,6 +17,13 @@ submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >
 AppSec Loves Agile  
 submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
+# October 2025
+
+1st-2nd:
+[Agile Cambridge](https://agilecambridge.net)  
+Becoming an agile Head of Engineering  
+rejected [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+
 # September 2025
 
 30th-1st:
@@ -33,10 +40,17 @@ rejected
 Agile Engineering Leadership  
 rejected [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
+23rd-24th:
+[DevOpsDays London](https://devopsdays.org/events/2025-london/welcome/)  
+Love Letter to Legacy  
+submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+Dysfunction Scaling  
+submitted
+
 23th-24th:
 [CTO Craft Con: Berlin](https://conference.ctocraft.com/berlin-2025/)  
 How to fail as first time head of engineering  
-submitted [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
+rejected [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 3rd-4th:
 [JavaZone.no](https://2025.javazone.no/en)  
@@ -67,6 +81,10 @@ Agile Engineering Leadership
 rejected [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 
 # May 2025
+
+[OWASP Global AppSec EU](https://owasp.glueup.com/event/owasp-global-appsec-eu-2025-123983/)  
+AppSec Loves Agile  
+rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 [Agile Manchester](https://agilemanchester.net)  
 Agile Engineering Leadership  
