@@ -5,9 +5,10 @@ tags: ["bsides","conference","security","appsec","genai"]
 featured_image: "/images/bsides_ncl_2025_title.jpg"
 ---
 
-BSides Newcastle is probably one the most anarchic of the BSides I've been to so far. So much so that the fascists
-organised a protest. Well, not really, but there was a far-right and counter-protest not far from where 
-the conference was. Thankfully, the organisers were on top of it and kept is all up-to-date with advice: 
+[BSides Newcastle](https://www.bsidesnewcastle.org) is probably one the most anarchic of the 
+BSides I've been to so far. So much so that the fascists organised a protest. Well, not really, 
+but there was a far-right and counter-protest not far from where the conference was. 
+Thankfully, the organisers were on top of it and kept is all up-to-date with advice: 
 "Punch Nazis" (for the benefit of the tape, nobody endorsed violence).
 
 Aaanyway, aside from a really early start I was ready to dive in and hope to share some of the experiences with you.
