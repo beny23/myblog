@@ -19,6 +19,11 @@ rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
 # October 2025
 
+6th-10th:
+[Devoxx Belgium](https://devoxx.be)  
+Love Letter to Legacy  
+accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+
 1st-2nd:
 [Agile Cambridge](https://agilecambridge.net)  
 Becoming an agile Head of Engineering  
@@ -32,6 +37,11 @@ Precision Munitions for Denial of Service
 rejected [related blogpost]({{< ref "/posts/precision_munitions_for_denial_of_service.md" >}})
 AppSec Loves Agile  
 rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
+
+27th:
+[BSides Newcastle](https://www.bsidesnewcastle.org)  
+What will go wrong when ZAP is driven by GenAI (demo)  
+accepted [related blogpost]({{< ref "/posts/make_it_so_genai_and_zap.md" >}})
 
 25th-27th:
 [Lean Agile Scotland](https://leanagile.scot/)  
