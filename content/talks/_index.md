@@ -34,7 +34,7 @@ rejected [related blogpost]({{< ref "/posts/becoming_engineering_head.md" >}})
 30th-1st:
 [ONE Conference](https://one-conference.nl)  
 Precision Munitions for Denial of Service  
-rejected [related blogpost]({{< ref "/posts/precision_munitions_for_denial_of_service.md" >}})
+rejected [related blogpost]({{< ref "/posts/precision_munitions_for_denial_of_service.md" >}})  
 AppSec Loves Agile  
 rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 
@@ -42,6 +42,7 @@ rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 [BSides Newcastle](https://www.bsidesnewcastle.org)  
 What will go wrong when ZAP is driven by GenAI (demo)  
 accepted [related blogpost]({{< ref "/posts/make_it_so_genai_and_zap.md" >}})
+[experience report]({{< ref "/posts/bsides_ncl_2025.md" >}})
 
 25th-27th:
 [Lean Agile Scotland](https://leanagile.scot/)  
