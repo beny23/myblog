@@ -3,6 +3,21 @@ title: My talks calendar
 featured_image: "/images/talks_title.jpg"
 ---
 
+# May 2026
+
+[Agile Manchester](https://agilemanchester.net)  
+You're absolutely right! I hate AI too.  
+submitted
+
+# March 2026
+
+17th-18th:
+[Scan Agile](https://www.scan-agile.org)  
+You're absolutely right! I hate AI too.  
+submitted  
+Learn how to Hook up an AI to an API  
+submitted [related blogpost]({{< ref "/posts/make_it_so_genai_and_zap.md" >}})
+
 # November 2025
 
 24th-27th:
@@ -22,7 +37,7 @@ rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})
 6th-10th:
 [Devoxx Belgium](https://devoxx.be)  
 Love Letter to Legacy  
-accepted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
+accepted but had to withdraw [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})
 
 1st-2nd:
 [Agile Cambridge](https://agilecambridge.net)  
