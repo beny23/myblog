@@ -5,7 +5,7 @@ tags: ["weakly-link"]
 featured_image: "/images/weakly_link_2025_46_title.jpg"
 ---
 
-This weeks edition of the weakly link has got some fire in it:
+This week's edition of the weakly link has got some fire in it:
 
 ![Dumpster fire](/images/weakly_link_2025_46_dumpster_fire.jpg)
 
