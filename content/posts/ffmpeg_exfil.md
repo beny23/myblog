@@ -1,6 +1,6 @@
 ---
 title: "Exfiltration via ffmpeg"
-date: 2025-11-20
+date: 2025-11-23
 tags: ["appsec","security"]
 featured_image: "/images/ffmpeg_exfil_title.jpg"
 ---
