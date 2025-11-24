@@ -3,8 +3,16 @@ title: My talks calendar
 featured_image: "/images/talks_title.jpg"
 ---
 
+# July 2026
+
+2nd-3rd:
+[Agile on the Beach](https://agileonthebeach.com/)  
+Learn to Livecode Music  
+submitted
+
 # May 2026
 
+13th-14th:
 [Agile Manchester](https://agilemanchester.net)  
 You're absolutely right! I hate AI too.  
 submitted
