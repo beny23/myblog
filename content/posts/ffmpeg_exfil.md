@@ -3,6 +3,7 @@ title: "Exfiltration via ffmpeg"
 date: 2025-11-23
 tags: ["appsec","security"]
 featured_image: "/images/ffmpeg_exfil_title.jpg"
+draft: true
 ---
 
 Here's a fun thought experiment. What if you have an application that allows user-supplied parameters
