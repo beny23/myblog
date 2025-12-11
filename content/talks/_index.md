@@ -15,16 +15,16 @@ submitted
 13th-14th:
 [Agile Manchester](https://agilemanchester.net)  
 You're absolutely right! I hate AI too.  
-submitted
+rejected
 
 # March 2026
 
 17th-18th:
 [Scan Agile](https://www.scan-agile.org)  
 You're absolutely right! I hate AI too.  
-submitted  
+rejected  
 Learn how to Hook up an AI to an API  
-submitted [related blogpost]({{< ref "/posts/make_it_so_genai_and_zap.md" >}})
+rejected [related blogpost]({{< ref "/posts/make_it_so_genai_and_zap.md" >}})
 
 # November 2025
 
@@ -95,11 +95,11 @@ rejected [related blogpost]({{< ref "/posts/precision_munitions_for_denial_of_se
 3rd-4th:
 [JavaZone.no](https://2025.javazone.no/en)  
 AppSec Loves Agile  
-submitted [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
+rejected [related blogpost]({{< ref "/posts/appsec_loves_agile.md" >}})  
 Love Letter to Legacy  
-submitted [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
+rejected [related blogpost]({{< ref "/posts/worst_jobs_for_best_engineers.md" >}})  
 Precision Munitions for Denial of Service  
-submitted [related blogpost]({{< ref "/posts/precision_munitions_for_denial_of_service.md" >}})
+rejected [related blogpost]({{< ref "/posts/precision_munitions_for_denial_of_service.md" >}})
 
 # July 2025
 
