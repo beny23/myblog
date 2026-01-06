@@ -4,9 +4,9 @@ title: About me
 
 Hi, I’m Gerald Benischke and I’m a software engineering consultant. But don’t worry about the consultant bit!
 
-Through my company Software Design Systems Ltd, I’ve worked with Ooredoo FinTech, [Equal Experts](https://www.equalexperts.com/), HMRC, 
-MoneySuperMarket, Barclays, MBNA and others spanning nearly 30 years of engineering in the public, financial 
-and telecoms sectors.
+Through my company Software Design Systems Ltd, I’ve worked with M&S, Parloa, Ooredoo FinTech, [Equal Experts](https://www.equalexperts.com/), HMRC, 
+MoneySuperMarket, Barclays, MBNA and others spanning nearly 30 years of engineering in the public, financial, retail 
+and telecoms sectors both in corporates and scale-ups.
 
 I tend to describe myself as both an Agile Fundamentalist and an AppSec Snooper. What does this mean? My software 
 development experience has led me to think that the principles of the [agile manifesto](http://agilemanifesto.org) form the basis of good 
