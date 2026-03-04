@@ -8,7 +8,7 @@ featured_image: "/images/talks_title.jpg"
 2nd-3rd:
 [Agile on the Beach](https://agileonthebeach.com/)  
 Learn to Livecode Music  
-submitted
+rejected
 
 # May 2026
 
@@ -25,6 +25,12 @@ You're absolutely right! I hate AI too.
 rejected  
 Learn how to Hook up an AI to an API  
 rejected [related blogpost]({{< ref "/posts/make_it_so_genai_and_zap.md" >}})
+
+# January 2026
+
+[Software Lancaster Talks](https://www.linkedin.com/posts/software-lancaster-talks_another-successfulsoftware-lancaster-talks-activity-7422946649997479936-Wqka)  
+Precision Munitions for Denial of Service  
+accepted [related blogpost]({{< ref "/posts/precision_munitions_for_denial_of_service.md" >}})
 
 # November 2025
 
