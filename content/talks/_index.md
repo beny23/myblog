@@ -3,12 +3,36 @@ title: My talks calendar
 featured_image: "/images/talks_title.jpg"
 ---
 
+# November 2026
+
+4th-6th:
+[BSides Leeds](https://bsidesleeds.com)  
+Adventures in the Ralph Loop  
+submitted
+
 # July 2026
+
+11th:
+[SteelCon: Sheffield](https://www.steelcon.info)  
+Adventures in the Ralph Loop  
+submitted
 
 2nd-3rd:
 [Agile on the Beach](https://agileonthebeach.com/)  
 Learn to Livecode Music  
 rejected
+
+# June 2026
+
+13th:
+[BSides Leeds](https://bsidesleeds.com)  
+Adventures in the Ralph Loop  
+submitted
+
+10th:
+[Equal Experts G-ee-k](https://www.steelcon.info)  
+Adventures in the Ralph Loop  
+submitted
 
 # May 2026
 
