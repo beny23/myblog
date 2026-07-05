@@ -6,9 +6,16 @@ featured_image: "/images/talks_title.jpg"
 # November 2026
 
 4th-6th:
-[BSides Leeds](https://bsidesleeds.com)  
+[Øredev](https://oredev.org)  
 Adventures in the Ralph Loop  
-submitted
+rejected
+
+# October 2026
+
+29th-30th:
+[Lean Agile Scotland](https://leanagile.scot/)  
+Adventures in the Ralph Loop  
+rejected
 
 # July 2026
 
@@ -20,19 +27,21 @@ submitted
 2nd-3rd:
 [Agile on the Beach](https://agileonthebeach.com/)  
 Learn to Livecode Music  
-rejected
+rejected  
+(Another) Love Letter to Legacy  
+accepted
 
 # June 2026
 
 13th:
 [BSides Leeds](https://bsidesleeds.com)  
 Adventures in the Ralph Loop  
-submitted
+initially rejected but delivered as a last minute replacement talk 
 
 10th:
 [Equal Experts G-ee-k](https://www.steelcon.info)  
 Adventures in the Ralph Loop  
-submitted
+rejected
 
 # May 2026
 
